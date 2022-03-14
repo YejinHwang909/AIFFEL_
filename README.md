@@ -21,3 +21,15 @@
 |17|[인간보다 퀴즈를 잘 푸는 인공지능](https://github.com/YejinHwang909/AIFFEL_/blob/master/Exploration/E17_bert_qna/E17_bert_qna.ipynb)|BERT||
 |18|[문자를 읽을 수 있는 딥러닝](https://github.com/YejinHwang909/AIFFEL_/blob/master/Exploration/E18_ocr_models/E18_ocr_models.ipynb)|OCR||
 |19|[난 스케치를 할 테니 너는 채색을 하거라](https://github.com/YejinHwang909/AIFFEL_/blob/master/Exploration/E19_making_load_image/E19_making_load_image.ipynb)|Pix2Pix||
+
+
+# GoingDeeper
+||title|content|description|
+|---|---|---|---|
+|1|없다면 어떻게 될까? (ResNet Ablation Study)|ResNet|ResNet 구현|
+|2|이미지 어디까지 우려볼까?|Augmentation||
+|3|나를 찾아줘 - Class Activation Map 만들기|CAM, Grad-CAM|XAI(설명 가능한 인공지능)|
+|4|GO/STOP! - Object detection 시스템 만들기|RetinaNet|Object detection|
+|5|도로 영역을 찾자! - 세그멘테이션 모델 만들기|U-Net, U-Net++|segmentation|
+|6|직접 만들어보는 OCR|CRNN|Text recognition, Text detection|
+|7|멀리 있는 사람도 스티커를 붙여주자|SSD|multiface detection|
