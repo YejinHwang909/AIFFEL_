@@ -2,7 +2,7 @@
 
 ||title|content|description|
 |---|---|---|---|
-|1|인공지능과 가위바위보 하기|Sequential Model||
+|1|[인공지능과 가위바위보 하기](https://github.com/YejinHwang909/AIFFEL_/blob/master/Exploration/E1_rock_scissor_paper/E1_rock_scissor_paper.ipynb)|Sequential Model||
 |2|Iris의 세 가지 품종, 분류해볼 수 있겠어요?|||
 |3|카메라 스티커앱 만들기 첫걸음|||
 |4|작사가 인공지능 만들기|||
